@@ -9,7 +9,8 @@ strong {
   
   a {
     /* color: #BF5700; */
-    color: #C84113;
+    /* color: #1D4F91; */
+    color: #1D4F91;
   }
   
   h4 {
@@ -110,7 +111,8 @@ strong {
   }
   
   .navbar-dark {
-    background-color: #C84113;
+    /* background-color: #C84113; */
+    background-color: #1D4F91;
   }
   
   .label {
